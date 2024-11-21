@@ -1,0 +1,12 @@
+{ 
+    "project_title" : "Golm Haus 29",
+    "path_dir_input_las": "C:/Users/Jacob/Documents/DATA/potsdam_lidar/Golm-FWF-Base",
+    "path_dir_output_las" : "C:/Users/Jacob/Documents/DATA/potsdam_lidar_output", 
+    "file_type_las" : ".las",
+    "file_name_las" : "Haus29",
+    "file_name_las_specification" : null,
+    "flight_paths" : ["ID04","ID05","ID06"],
+    "flight_path" : "ID04",
+    "file_type_fwf" : ".wdp"
+
+}

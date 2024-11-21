@@ -1,0 +1,22 @@
+### to install the package from within the package folder
+## create virtual environment 
+# python -m venv venv
+
+## activate virtual environment in PowerShell
+# ./venv/Scripts/activate
+
+## activate virtual environment in cmd
+# .\venv\Scripts\activate
+
+## activate in terminal
+# source venv/bin/activate
+
+## check the installed packages
+# python -m pip list
+# pip list
+
+## install package in editable mode
+# python -m pip install -e . 
+
+## install package in editable mode with (ext)end dependencies
+# python -m pip install -e .[ext]
